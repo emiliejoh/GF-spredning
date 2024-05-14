@@ -3,7 +3,7 @@ Metode for identifikasjon av grunnforurensningers (GF) potensielle negative påv
 
 <img width="454" alt="image" src="https://github.com/emiliejoh/GF-spredning/assets/166838428/f7a361b3-996e-4c8a-9a32-80c144c8c29d"><br />
 
-Resultatet av overlappsanalysen summerer opp antall overlapp mellom sårbare områder og dreneringslinjene. Dette resulterer i en påvirkningssum for hver grunnforurensningslokalitet, som indikerer hvor mange ulike kategorier av sårbare områder den gitte grunnforurensningen potensielt kan påvirke. Metoden kan benyttes som et hjelpemiddel i klimatilpassingsarbeid, for å foreta prioriteringer i preventivt arbeid. Kartet under er et eksmepl på hvordan resultatene fra metoden kan visualiseres.<br />
+Resultatet av overlappsanalysen summerer opp antall overlapp mellom sårbare områder og dreneringslinjene. Dette resulterer i en påvirkningssum for hver grunnforurensningslokalitet, som indikerer hvor mange ulike kategorier av sårbare områder den gitte grunnforurensningen potensielt kan påvirke. Metoden kan benyttes som et hjelpemiddel i klimatilpassingsarbeid, for å foreta prioriteringer i preventivt arbeid. Kartet under er et eksempel på hvordan resultatene fra metoden kan visualiseres.<br />
 
 <img width="454" alt="image" src="https://github.com/emiliejoh/GF-spredning/assets/166838428/12788e2a-c306-4fdf-aea1-48b1fe77fa64"> <br /><br /><br />
 
